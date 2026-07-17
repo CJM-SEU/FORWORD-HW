@@ -1,0 +1,17 @@
+[
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/meson_options.txt",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/VERSION",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/build.hpp.in",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/utils/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/COPYING",
+  "/home/jiongming/.conda/envs/forward/bin/git",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/config.h.in",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/meson.build",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main/meson.build"
+]

@@ -1,0 +1,2 @@
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar qc ../lib/libbtor2parser.a CMakeFiles/btor2parser.dir/btor2parser/btor2parser.c.o
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ranlib ../lib/libbtor2parser.a

@@ -1,0 +1,2 @@
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar qc libtest-deps.a "CMakeFiles/test-deps.dir/available_solvers.cpp.o" "CMakeFiles/test-deps.dir/test-utils.cpp.o"
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ranlib libtest-deps.a

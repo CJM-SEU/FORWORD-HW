@@ -1,0 +1,65 @@
+lib/libbison_a-basename.o: lib/basename.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ lib/config.h lib/dirname.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h \
+ lib/filename.h lib/string.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/string.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/locale_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/strings.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/strings_fortified.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/string_fortified.h \
+ lib/basename-lgpl.h lib/xalloc.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdint.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
+ lib/xalloc-oversized.h lib/xstrndup.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:
+lib/config.h:
+lib/dirname.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h:
+lib/filename.h:
+lib/string.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/string.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/locale_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/strings.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/strings_fortified.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/string_fortified.h:
+lib/basename-lgpl.h:
+lib/xalloc.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdint.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdint.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/time64.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-intn.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h:
+lib/xalloc-oversized.h:
+lib/xstrndup.h:

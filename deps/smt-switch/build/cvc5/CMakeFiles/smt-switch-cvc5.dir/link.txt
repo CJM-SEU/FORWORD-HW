@@ -1,0 +1,2 @@
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar qc libsmt-switch-cvc5.a "CMakeFiles/smt-switch-cvc5.dir/src/cvc5_datatype.cpp.o" "CMakeFiles/smt-switch-cvc5.dir/src/cvc5_factory.cpp.o" "CMakeFiles/smt-switch-cvc5.dir/src/cvc5_solver.cpp.o" "CMakeFiles/smt-switch-cvc5.dir/src/cvc5_sort.cpp.o" "CMakeFiles/smt-switch-cvc5.dir/src/cvc5_term.cpp.o"
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ranlib libsmt-switch-cvc5.a

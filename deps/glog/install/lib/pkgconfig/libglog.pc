@@ -1,0 +1,11 @@
+prefix=/home/jiongming/FORWORD_build/deps/glog/install
+exec_prefix=/home/jiongming/FORWORD_build/deps/glog/install/bin
+libdir=/home/jiongming/FORWORD_build/deps/glog/install/lib
+includedir=/home/jiongming/FORWORD_build/deps/glog/install/include
+
+Name: libglog
+Description: Google Log (glog) C++ logging framework
+Version: 0.6.0
+Libs: -L${libdir} -lglog
+Libs.private: 
+Cflags: -I${includedir}

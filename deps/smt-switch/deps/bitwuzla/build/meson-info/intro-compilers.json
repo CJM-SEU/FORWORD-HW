@@ -1,0 +1,104 @@
+{
+  "host": {
+    "c": {
+      "id": "gcc",
+      "exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc"
+      ],
+      "linker_exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc"
+      ],
+      "file_suffixes": [
+        "c"
+      ],
+      "default_suffix": "c",
+      "version": "14.3.0",
+      "full_version": "x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0",
+      "linker_id": "ld.bfd"
+    },
+    "cpp": {
+      "id": "gcc",
+      "exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+      ],
+      "linker_exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+      ],
+      "file_suffixes": [
+        "cpp",
+        "cppm",
+        "cc",
+        "cp",
+        "cxx",
+        "c++",
+        "hh",
+        "hp",
+        "hpp",
+        "ipp",
+        "hxx",
+        "h++",
+        "ino",
+        "ixx",
+        "CPP",
+        "C",
+        "HPP",
+        "H"
+      ],
+      "default_suffix": "cpp",
+      "version": "14.3.0",
+      "full_version": "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0",
+      "linker_id": "ld.bfd"
+    }
+  },
+  "build": {
+    "c": {
+      "id": "gcc",
+      "exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc"
+      ],
+      "linker_exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc"
+      ],
+      "file_suffixes": [
+        "c"
+      ],
+      "default_suffix": "c",
+      "version": "14.3.0",
+      "full_version": "x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0",
+      "linker_id": "ld.bfd"
+    },
+    "cpp": {
+      "id": "gcc",
+      "exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+      ],
+      "linker_exelist": [
+        "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+      ],
+      "file_suffixes": [
+        "cpp",
+        "cppm",
+        "cc",
+        "cp",
+        "cxx",
+        "c++",
+        "hh",
+        "hp",
+        "hpp",
+        "ipp",
+        "hxx",
+        "h++",
+        "ino",
+        "ixx",
+        "CPP",
+        "C",
+        "HPP",
+        "H"
+      ],
+      "default_suffix": "cpp",
+      "version": "14.3.0",
+      "full_version": "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0",
+      "linker_id": "ld.bfd"
+    }
+  }
+}

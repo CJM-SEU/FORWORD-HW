@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fPIC -W -Wall -Wextra -Wredundant-decls -std=gnu99 -O3 -DNDEBUG -o CMakeFiles/btor2parser.dir/btor2parser/btor2parser.c.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btor2parser/btor2parser.c",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btor2parser/btor2parser.c",
+  "output": "src/CMakeFiles/btor2parser.dir/btor2parser/btor2parser.c.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimam.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimam.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimam.cpp",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimam.cpp.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimstate.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimstate.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimstate.cpp",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimstate.cpp.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimvcd.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimvcd.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimvcd.cpp",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimvcd.cpp.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimhelpers.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimhelpers.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimhelpers.cpp",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimhelpers.cpp.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsim.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsim.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsim.cpp",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsim.cpp.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fPIC -W -Wall -Wextra -Wredundant-decls -std=gnu99 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimbv.c.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimbv.c",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimbv.c",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimbv.c.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc  -I/home/jiongming/桌面/FORWORD/deps/btor2tools/src/. -fPIC -W -Wall -Wextra -Wredundant-decls -std=gnu99 -O3 -DNDEBUG -Wall -Wfatal-errors -o CMakeFiles/btorsim.dir/btorsim/btorsimrng.c.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimrng.c",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsim/btorsimrng.c",
+  "output": "src/CMakeFiles/btorsim.dir/btorsim/btorsimrng.c.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc   -fPIC -W -Wall -Wextra -Wredundant-decls -std=gnu99 -O3 -DNDEBUG -o CMakeFiles/catbtor.dir/catbtor.c.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/catbtor.c",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/catbtor.c",
+  "output": "src/CMakeFiles/catbtor.dir/catbtor.c.o"
+},
+{
+  "directory": "/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src",
+  "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++   -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -W -Wall -Wextra -Wredundant-decls -std=gnu++11 -O3 -DNDEBUG -o CMakeFiles/btorsplit.dir/btorsplit.cpp.o -c /home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsplit.cpp",
+  "file": "/home/jiongming/桌面/FORWORD/deps/btor2tools/src/btorsplit.cpp",
+  "output": "src/CMakeFiles/btorsplit.dir/btorsplit.cpp.o"
+}
+]

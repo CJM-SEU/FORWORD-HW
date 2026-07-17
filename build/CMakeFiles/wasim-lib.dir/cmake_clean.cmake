@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/wasim-lib.dir/link.d"
+  "CMakeFiles/wasim-lib.dir/framework/egraph/json_export.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/egraph/json_export.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/independence_check.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/independence_check.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/state_simplify.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/state_simplify.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/sygus_simplify.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/sygus_simplify.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/symsim.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/symsim.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/symtraverse.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/symtraverse.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/term_manip.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/term_manip.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/tracemgr.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/tracemgr.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/framework/ts.cpp.o"
+  "CMakeFiles/wasim-lib.dir/framework/ts.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/frontend/btor2_encoder.cpp.o"
+  "CMakeFiles/wasim-lib.dir/frontend/btor2_encoder.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/frontend/smt_in.cpp.o"
+  "CMakeFiles/wasim-lib.dir/frontend/smt_in.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/frontend/state_read_write.cpp.o"
+  "CMakeFiles/wasim-lib.dir/frontend/state_read_write.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/sweeper/node_data.cpp.o"
+  "CMakeFiles/wasim-lib.dir/sweeper/node_data.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/sweeper/sweeper_engine.cpp.o"
+  "CMakeFiles/wasim-lib.dir/sweeper/sweeper_engine.cpp.o.d"
+  "CMakeFiles/wasim-lib.dir/utils/logger.cpp.o"
+  "CMakeFiles/wasim-lib.dir/utils/logger.cpp.o.d"
+  "libwasim.pdb"
+  "libwasim.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/wasim-lib.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

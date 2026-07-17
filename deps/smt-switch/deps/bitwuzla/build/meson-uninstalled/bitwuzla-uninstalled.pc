@@ -1,0 +1,11 @@
+prefix=/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build
+includedir=${prefix}/include
+libdir=${prefix}/lib/x86_64-linux-gnu
+srcdir=/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla
+
+Name: bitwuzla
+Description: bitwuzla: bitwuzla
+Version: 0.7.0-dev
+Requires: gmp >= 6.1
+Libs: -L${prefix}/src -lbitwuzla -L${prefix}/src/lib -lbitwuzlals -lbitwuzlabv -lbitwuzlabb
+Cflags: -I${prefix}/src/../include -I${srcdir}/src/../include -I${prefix}/src/lib -I${srcdir}/src/lib -I${prefix}/subprojects/symfpu -I${srcdir}/subprojects/symfpu -I${prefix}/subprojects/cadical-rel-2.1.2/src -I${srcdir}/subprojects/cadical-rel-2.1.2/src -I${prefix}/src -I${srcdir}/src -I${prefix}/src/lib/.. -I${srcdir}/src/lib/..

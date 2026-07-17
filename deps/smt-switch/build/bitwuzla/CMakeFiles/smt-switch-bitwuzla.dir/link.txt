@@ -1,0 +1,2 @@
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar qc libsmt-switch-bitwuzla.a "CMakeFiles/smt-switch-bitwuzla.dir/src/bitwuzla_factory.cpp.o" "CMakeFiles/smt-switch-bitwuzla.dir/src/bitwuzla_solver.cpp.o" "CMakeFiles/smt-switch-bitwuzla.dir/src/bitwuzla_sort.cpp.o" "CMakeFiles/smt-switch-bitwuzla.dir/src/bitwuzla_term.cpp.o"
+/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ranlib libsmt-switch-bitwuzla.a

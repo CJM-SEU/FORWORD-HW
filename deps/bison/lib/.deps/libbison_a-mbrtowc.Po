@@ -1,0 +1,67 @@
+lib/libbison_a-mbrtowc.o: lib/mbrtowc.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ lib/config.h lib/wchar.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/wchar.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn-common.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdarg.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/wint_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/mbstate_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__mbstate_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__FILE.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/FILE.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/locale_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar2-decl.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar2.h \
+ lib/hard-locale.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h \
+ lib/locale.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/locale.h \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/locale.h \
+ lib/setlocale_null.h lib/arg-nonnull.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:
+lib/config.h:
+lib/wchar.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/wchar.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/floatn-common.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdarg.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/wint_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/mbstate_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__mbstate_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__FILE.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/FILE.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/locale_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar2-decl.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar2.h:
+lib/hard-locale.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h:
+lib/locale.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/locale.h:
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/bits/locale.h:
+lib/setlocale_null.h:
+lib/arg-nonnull.h:

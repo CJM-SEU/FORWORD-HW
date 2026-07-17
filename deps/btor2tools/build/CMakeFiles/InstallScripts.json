@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jiongming/\u684c\u9762/FORWORD/deps/btor2tools/build/cmake_install.cmake",
+		"/home/jiongming/\u684c\u9762/FORWORD/deps/btor2tools/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

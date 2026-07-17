@@ -1,0 +1,9 @@
+{
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabv.a": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabv.a",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabb.a": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabb.a",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlals.a": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlals.a",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbitwuzla.a": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzla.a",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/main/bitwuzla": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/bin/bitwuzla",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/bitwuzla.pc": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/pkgconfig/bitwuzla.pc",
+  "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/include/bitwuzla": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla"
+}

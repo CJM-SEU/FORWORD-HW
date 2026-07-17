@@ -1,0 +1,21 @@
+{
+  "version": "0.7.0-dev",
+  "descriptive_name": "bitwuzla",
+  "license": [
+    "mit"
+  ],
+  "license_files": [],
+  "subproject_dir": "subprojects",
+  "subprojects": [
+    {
+      "name": "cadical",
+      "version": "1.7.4",
+      "descriptive_name": "cadical"
+    },
+    {
+      "name": "symfpu",
+      "version": "undefined",
+      "descriptive_name": "symfpu"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+#define VERSION "2.1.2"
+#define IDENTIFIER ""
+#define COMPILER "14.3.0"
+#define FLAGS ""
+#define DATE ""

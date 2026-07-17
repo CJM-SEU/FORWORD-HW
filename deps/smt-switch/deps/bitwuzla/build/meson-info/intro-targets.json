@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "cadical",
+    "id": "9dc8460@@cadical@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/cadical-rel-2.1.2/src/libcadical.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/cadical-rel-2.1.2/src/libcadical.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/cadical-rel-2.1.2/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-std=c++11",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC",
+          "-DNCLOSEFROM"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/analyze.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/arena.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/assume.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/averages.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/backtrack.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/backward.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/bins.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/block.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/ccadical.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/checker.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/clause.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/collect.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/compact.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/condition.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/config.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/constrain.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/contract.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/cover.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/decide.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/decompose.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/deduplicate.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/drattracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/elim.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/ema.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/extend.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/external.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/external_propagate.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/file.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/flags.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/flip.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/format.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/frattracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/gates.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/idruptracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/instantiate.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/internal.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/ipasir.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lidruptracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/limit.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/logging.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lookahead.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lratbuilder.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lratchecker.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lrattracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/lucky.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/message.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/minimize.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/occs.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/options.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/parse.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/phases.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/probe.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/profile.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/proof.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/propagate.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/queue.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/random.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/reap.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/reduce.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/rephase.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/report.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/resources.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/restart.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/restore.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/score.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/shrink.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/signal.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/solution.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/stats.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/subsume.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/terminal.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/ternary.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/transred.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/util.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/var.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/veripbtracer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/version.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/vivify.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/walk.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src/watch.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": "cadical",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "add.h",
+    "id": "5a00ec1@@add.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/add.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/add.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "classify.h",
+    "id": "5a00ec1@@classify.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/classify.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/classify.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "compare.h",
+    "id": "5a00ec1@@compare.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/compare.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/compare.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "convert.h",
+    "id": "5a00ec1@@convert.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/convert.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/convert.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "divide.h",
+    "id": "5a00ec1@@divide.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/divide.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/divide.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "fma.h",
+    "id": "5a00ec1@@fma.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/fma.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/fma.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "ite.h",
+    "id": "5a00ec1@@ite.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/ite.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/ite.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "multiply.h",
+    "id": "5a00ec1@@multiply.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/multiply.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/multiply.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "operations.h",
+    "id": "5a00ec1@@operations.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/operations.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/operations.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "packing.h",
+    "id": "5a00ec1@@packing.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/packing.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/packing.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "remainder.h",
+    "id": "5a00ec1@@remainder.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/remainder.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/remainder.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "rounder.h",
+    "id": "5a00ec1@@rounder.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/rounder.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/rounder.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "sign.h",
+    "id": "5a00ec1@@sign.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/sign.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/sign.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "sqrt.h",
+    "id": "5a00ec1@@sqrt.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/sqrt.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/sqrt.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "unpackedFloat.h",
+    "id": "5a00ec1@@unpackedFloat.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/core/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core/unpackedFloat.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/core/unpackedFloat.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "common.h",
+    "id": "a52080c@@common.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/utils/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/utils/common.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/utils/common.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "numberOfRoundingModes.h",
+    "id": "a52080c@@numberOfRoundingModes.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/utils/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/utils/numberOfRoundingModes.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/utils/numberOfRoundingModes.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "properties.h",
+    "id": "a52080c@@properties.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/symfpu/utils/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/utils/properties.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "copy",
+          "@INPUT@",
+          "@OUTPUT@"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/symfpu/utils/properties.h"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": "symfpu",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "config.h",
+    "id": "25a6634@@config.h@cus",
+    "type": "custom",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/config.h"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/meson",
+          "--internal",
+          "vcstagger",
+          "@INPUT0@",
+          "@OUTPUT0@",
+          "0.7.0-dev",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src",
+          "@git_id@",
+          "(.*)",
+          "/home/jiongming/.conda/envs/forward/bin/python3",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/get_git_id.py",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla"
+        ],
+        "parameters": [],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/config.h.in"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "bzlautil",
+    "id": "25a6634@@bzlautil@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbzlautil.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbzlautil.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC",
+          "-DHAVE_RUSAGE"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/hash_pair.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/logger.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/resources.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/printer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/statistics.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/util/util.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "bzlarng",
+    "id": "91be6cf@@bzlarng@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbzlarng.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbzlarng.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/rng/rng.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "gmp"
+    ],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "bitwuzlabv",
+    "id": "91be6cf@@bitwuzlabv@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabv.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabv.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bv/bitvector.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bv/bounds/bitvector_bounds.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bv/domain/bitvector_domain.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bv/domain/wheel_factorizer.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrD"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "gmp"
+    ],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabv.a"
+    ]
+  },
+  {
+    "name": "bitwuzlabb",
+    "id": "91be6cf@@bitwuzlabb@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabb.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabb.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bitblast/aig/aig_cnf.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bitblast/aig/aig_manager.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bitblast/aig/aig_node.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/bitblast/aig/aig_printer.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrD"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "gmp",
+      "aiger"
+    ],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabb.a"
+    ]
+  },
+  {
+    "name": "bitwuzlals",
+    "id": "91be6cf@@bitwuzlals@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlals.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlals.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/ls/ls.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/ls/ls_bv.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/ls/bv/bitvector_node.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib/ls/node/node.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrD"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "gmp"
+    ],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlals.a"
+    ]
+  },
+  {
+    "name": "bitwuzla",
+    "id": "25a6634@@bitwuzla@sta",
+    "type": "static library",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbitwuzla.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbitwuzla.a.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/include",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/cadical-rel-2.1.2/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/utils",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-fPIC",
+          "-isystem../subprojects/symfpu",
+          "-isystemsubprojects/symfpu",
+          "-DHAVE_RUSAGE"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/c/bitwuzla.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/c/bitwuzla_structs.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/c/parser.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/checks.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/cpp/bitwuzla.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/api/cpp/parser.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/backtrack/assertion_stack.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/backtrack/backtrackable.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/check/check_model.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/check/check_unsat_core.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/env.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/kind_info.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node_data.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node_kind.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node_manager.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node_unique_table.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/node/node_utils.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/option/option.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/btor2/lexer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/btor2/parser.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/btor2/token.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/smt2/lexer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/smt2/parser.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/smt2/symbol_table.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/parser/smt2/token.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/assertion_tracker.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/assertion_vector.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/contradicting_ands.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/elim_extract.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/elim_lambda.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/elim_udiv.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/elim_uninterpreted.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/embedded_constraints.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/flatten_and.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/normalize.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/rewrite.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/skeleton_preproc.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/pass/variable_substitution.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/preprocessing_pass.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/preprocess/preprocessor.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/printer/printer.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/evaluator.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrite_utils.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewriter.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_array.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_bool.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_bv.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_bv_norm.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_core.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/rewrite/rewrites_fp.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/resource_terminator.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/sat/cadical.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/sat/cryptominisat.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/sat/kissat.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/sat/sat_solver_factory.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/array/array_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/abstract/abstraction_lemmas.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/abstract/abstraction_module.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/bv/bv_bitblast_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/bv/bv_prop_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/bv/bv_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/bv/aig_bitblaster.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/floating_point.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/fp_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/rounding_mode.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/symfpu_nm.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/symfpu_wrapper.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fp/word_blaster.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/fun/fun_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/quant/quant_solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/result.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/solver.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/solver_engine.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solver/solver_state.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/solving_context.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/type/type.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/type/type_data.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/type/type_manager.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar"
+        ],
+        "parameters": [
+          "csrD"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "cryptominisat5",
+      "kissat",
+      "gmp"
+    ],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzla.a"
+    ]
+  },
+  {
+    "name": "bitwuzla",
+    "id": "32d4911@@bitwuzla@exe",
+    "type": "executable",
+    "defined_in": "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main/meson.build",
+    "filename": [
+      "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/main/bitwuzla"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/main/bitwuzla.p",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/main",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/include",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/lib",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/cadical-rel-2.1.2/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/subprojects/cadical-rel-2.1.2/src",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/core",
+          "-I/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/subprojects/symfpu/symfpu/utils",
+          "-fdiagnostics-color=always",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-Wextra",
+          "-Wpedantic",
+          "-std=c++17",
+          "-O3",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-pthread",
+          "-isystem../subprojects/symfpu",
+          "-isystemsubprojects/symfpu"
+        ],
+        "sources": [
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main/main.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main/options.cpp",
+          "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/src/main/time_limit.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++"
+        ],
+        "parameters": [
+          "-L/home/jiongming/.conda/envs/forward/lib",
+          "-Wl,--as-needed",
+          "-Wl,--no-undefined",
+          "-Wl,-O1",
+          "-Wl,-O2",
+          "-Wl,--sort-common",
+          "-Wl,--as-needed",
+          "-Wl,-z,relro",
+          "-Wl,-z,now",
+          "-Wl,--disable-new-dtags",
+          "-Wl,--gc-sections",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-rpath,/home/jiongming/.conda/envs/forward/lib",
+          "-Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib",
+          "-fvisibility-inlines-hidden",
+          "-fmessage-length=0",
+          "-march=nocona",
+          "-mtune=haswell",
+          "-ftree-vectorize",
+          "-fPIC",
+          "-fstack-protector-strong",
+          "-fno-plt",
+          "-O2",
+          "-ffunction-sections",
+          "-pipe",
+          "-DNDEBUG",
+          "-D_FORTIFY_SOURCE=2",
+          "-O2",
+          "-Wl,-rpath,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "src/libbitwuzla.a",
+          "src/lib/libbitwuzlabb.a",
+          "src/lib/libbitwuzlabv.a",
+          "src/lib/libbitwuzlals.a",
+          "subprojects/cadical-rel-2.1.2/src/libcadical.a",
+          "-static",
+          "/home/jiongming/FORWORD_build/deps/gmp-install/lib/libgmp.a",
+          "-Wl,--end-group",
+          "-Wl,--end-group",
+          "-pthread"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "cryptominisat5",
+      "kissat",
+      "gmp",
+      "threads"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/bin/bitwuzla"
+    ]
+  }
+]

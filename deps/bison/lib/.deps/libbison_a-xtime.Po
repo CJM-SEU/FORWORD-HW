@@ -1,0 +1,6 @@
+lib/libbison_a-xtime.o: lib/xtime.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ lib/config.h lib/xtime.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:
+lib/config.h:
+lib/xtime.h:

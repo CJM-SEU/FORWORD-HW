@@ -1,0 +1,1094 @@
+[
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/analyze.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/analyze.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/analyze.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/analyze.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/analyze.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/analyze.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/arena.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/arena.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/arena.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/arena.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/arena.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/arena.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/assume.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/assume.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/assume.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/assume.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/assume.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/assume.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/averages.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/averages.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/averages.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/averages.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/averages.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/averages.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backtrack.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backtrack.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backtrack.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/backtrack.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/backtrack.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backtrack.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backward.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backward.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backward.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/backward.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/backward.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/backward.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/bins.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/bins.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/bins.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/bins.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/bins.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/bins.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/block.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/block.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/block.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/block.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/block.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/block.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ccadical.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ccadical.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ccadical.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/ccadical.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/ccadical.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ccadical.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/checker.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/checker.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/checker.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/checker.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/checker.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/checker.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/clause.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/clause.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/clause.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/clause.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/clause.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/clause.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/collect.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/collect.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/collect.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/collect.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/collect.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/collect.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/compact.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/compact.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/compact.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/compact.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/compact.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/compact.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/condition.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/condition.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/condition.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/condition.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/condition.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/condition.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/config.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/config.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/config.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/config.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/config.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/config.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/constrain.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/constrain.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/constrain.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/constrain.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/constrain.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/constrain.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/contract.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/contract.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/contract.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/contract.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/contract.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/contract.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/cover.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/cover.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/cover.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/cover.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/cover.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/cover.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decide.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decide.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decide.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/decide.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/decide.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decide.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decompose.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decompose.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decompose.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/decompose.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/decompose.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/decompose.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/deduplicate.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/deduplicate.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/deduplicate.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/deduplicate.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/deduplicate.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/deduplicate.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/drattracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/drattracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/drattracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/drattracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/drattracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/drattracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/elim.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/elim.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/elim.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/elim.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/elim.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/elim.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ema.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ema.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ema.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/ema.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/ema.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ema.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/extend.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/extend.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/extend.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/extend.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/extend.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/extend.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/external.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/external.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external_propagate.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external_propagate.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external_propagate.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/external_propagate.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/external_propagate.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/external_propagate.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/file.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/file.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/file.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/file.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/file.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/file.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flags.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flags.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flags.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/flags.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/flags.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flags.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flip.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flip.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flip.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/flip.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/flip.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/flip.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/format.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/format.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/format.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/format.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/format.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/format.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/frattracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/frattracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/frattracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/frattracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/frattracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/frattracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/gates.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/gates.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/gates.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/gates.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/gates.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/gates.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/idruptracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/idruptracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/idruptracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/idruptracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/idruptracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/idruptracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/instantiate.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/instantiate.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/instantiate.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/instantiate.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/instantiate.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/instantiate.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/internal.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/internal.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/internal.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/internal.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/internal.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/internal.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ipasir.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ipasir.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ipasir.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/ipasir.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/ipasir.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ipasir.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lidruptracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lidruptracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lidruptracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lidruptracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lidruptracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lidruptracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/limit.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/limit.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/limit.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/limit.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/limit.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/limit.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/logging.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/logging.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/logging.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/logging.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/logging.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/logging.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lookahead.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lookahead.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lookahead.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lookahead.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lookahead.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lookahead.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratbuilder.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratbuilder.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratbuilder.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lratbuilder.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lratbuilder.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratbuilder.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratchecker.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratchecker.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratchecker.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lratchecker.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lratchecker.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lratchecker.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lrattracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lrattracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lrattracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lrattracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lrattracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lrattracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lucky.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lucky.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lucky.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/lucky.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/lucky.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/lucky.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/message.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/message.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/message.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/message.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/message.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/message.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/minimize.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/minimize.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/minimize.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/minimize.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/minimize.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/minimize.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/occs.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/occs.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/occs.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/occs.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/occs.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/occs.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/options.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/options.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/options.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/options.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/options.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/options.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/parse.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/parse.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/parse.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/parse.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/parse.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/parse.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/phases.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/phases.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/phases.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/phases.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/phases.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/phases.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/probe.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/probe.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/probe.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/probe.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/probe.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/probe.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/profile.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/profile.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/profile.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/profile.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/profile.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/profile.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/proof.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/proof.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/proof.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/proof.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/proof.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/proof.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/propagate.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/propagate.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/propagate.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/propagate.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/propagate.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/propagate.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/queue.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/queue.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/queue.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/queue.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/queue.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/queue.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/random.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/random.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/random.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/random.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/random.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/random.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reap.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reap.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reap.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/reap.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/reap.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reap.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reduce.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reduce.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reduce.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/reduce.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/reduce.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/reduce.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/rephase.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/rephase.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/rephase.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/rephase.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/rephase.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/rephase.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/report.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/report.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/report.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/report.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/report.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/report.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/resources.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/resources.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/resources.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/resources.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/resources.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/resources.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restart.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restart.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restart.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/restart.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/restart.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restart.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restore.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restore.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restore.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/restore.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/restore.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/restore.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/score.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/score.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/score.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/score.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/score.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/score.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/shrink.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/shrink.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/shrink.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/shrink.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/shrink.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/shrink.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/signal.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/signal.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/signal.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/signal.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/signal.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/signal.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solution.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solution.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solution.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/solution.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/solution.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solution.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solver.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solver.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solver.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/solver.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/solver.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/stats.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/stats.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/stats.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/stats.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/stats.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/stats.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/subsume.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/subsume.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/subsume.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/subsume.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/subsume.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/subsume.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/terminal.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/terminal.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/terminal.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/terminal.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/terminal.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/terminal.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ternary.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ternary.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ternary.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/ternary.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/ternary.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/ternary.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/transred.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/transred.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/transred.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/transred.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/transred.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/transred.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/util.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/util.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/util.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/util.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/util.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/util.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/var.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/var.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/var.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/var.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/var.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/var.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/veripbtracer.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/veripbtracer.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/veripbtracer.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/veripbtracer.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/veripbtracer.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/veripbtracer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/version.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/version.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/version.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/version.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/version.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/version.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/vivify.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/vivify.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/vivify.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/vivify.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/vivify.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/vivify.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/walk.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/walk.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/walk.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/walk.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/walk.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/walk.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isubprojects/cadical-rel-2.1.2/src/libcadical.a.p -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -std=c++11 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DNCLOSEFROM -MD -MQ subprojects/cadical-rel-2.1.2/src/libcadical.a.p/watch.cpp.o -MF subprojects/cadical-rel-2.1.2/src/libcadical.a.p/watch.cpp.o.d -o subprojects/cadical-rel-2.1.2/src/libcadical.a.p/watch.cpp.o -c ../subprojects/cadical-rel-2.1.2/src/watch.cpp",
+    "file": "../subprojects/cadical-rel-2.1.2/src/watch.cpp",
+    "output": "subprojects/cadical-rel-2.1.2/src/libcadical.a.p/watch.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_hash_pair.cpp.o -MF src/libbzlautil.a.p/util_hash_pair.cpp.o.d -o src/libbzlautil.a.p/util_hash_pair.cpp.o -c ../src/util/hash_pair.cpp",
+    "file": "../src/util/hash_pair.cpp",
+    "output": "src/libbzlautil.a.p/util_hash_pair.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_logger.cpp.o -MF src/libbzlautil.a.p/util_logger.cpp.o.d -o src/libbzlautil.a.p/util_logger.cpp.o -c ../src/util/logger.cpp",
+    "file": "../src/util/logger.cpp",
+    "output": "src/libbzlautil.a.p/util_logger.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_resources.cpp.o -MF src/libbzlautil.a.p/util_resources.cpp.o.d -o src/libbzlautil.a.p/util_resources.cpp.o -c ../src/util/resources.cpp",
+    "file": "../src/util/resources.cpp",
+    "output": "src/libbzlautil.a.p/util_resources.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_printer.cpp.o -MF src/libbzlautil.a.p/util_printer.cpp.o.d -o src/libbzlautil.a.p/util_printer.cpp.o -c ../src/util/printer.cpp",
+    "file": "../src/util/printer.cpp",
+    "output": "src/libbzlautil.a.p/util_printer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_statistics.cpp.o -MF src/libbzlautil.a.p/util_statistics.cpp.o.d -o src/libbzlautil.a.p/util_statistics.cpp.o -c ../src/util/statistics.cpp",
+    "file": "../src/util/statistics.cpp",
+    "output": "src/libbzlautil.a.p/util_statistics.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbzlautil.a.p -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -DHAVE_RUSAGE -MD -MQ src/libbzlautil.a.p/util_util.cpp.o -MF src/libbzlautil.a.p/util_util.cpp.o.d -o src/libbzlautil.a.p/util_util.cpp.o -c ../src/util/util.cpp",
+    "file": "../src/util/util.cpp",
+    "output": "src/libbzlautil.a.p/util_util.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbzlarng.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbzlarng.a.p/rng_rng.cpp.o -MF src/lib/libbzlarng.a.p/rng_rng.cpp.o.d -o src/lib/libbzlarng.a.p/rng_rng.cpp.o -c ../src/lib/rng/rng.cpp",
+    "file": "../src/lib/rng/rng.cpp",
+    "output": "src/lib/libbzlarng.a.p/rng_rng.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabv.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabv.a.p/bv_bitvector.cpp.o -MF src/lib/libbitwuzlabv.a.p/bv_bitvector.cpp.o.d -o src/lib/libbitwuzlabv.a.p/bv_bitvector.cpp.o -c ../src/lib/bv/bitvector.cpp",
+    "file": "../src/lib/bv/bitvector.cpp",
+    "output": "src/lib/libbitwuzlabv.a.p/bv_bitvector.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabv.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabv.a.p/bv_bounds_bitvector_bounds.cpp.o -MF src/lib/libbitwuzlabv.a.p/bv_bounds_bitvector_bounds.cpp.o.d -o src/lib/libbitwuzlabv.a.p/bv_bounds_bitvector_bounds.cpp.o -c ../src/lib/bv/bounds/bitvector_bounds.cpp",
+    "file": "../src/lib/bv/bounds/bitvector_bounds.cpp",
+    "output": "src/lib/libbitwuzlabv.a.p/bv_bounds_bitvector_bounds.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabv.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabv.a.p/bv_domain_bitvector_domain.cpp.o -MF src/lib/libbitwuzlabv.a.p/bv_domain_bitvector_domain.cpp.o.d -o src/lib/libbitwuzlabv.a.p/bv_domain_bitvector_domain.cpp.o -c ../src/lib/bv/domain/bitvector_domain.cpp",
+    "file": "../src/lib/bv/domain/bitvector_domain.cpp",
+    "output": "src/lib/libbitwuzlabv.a.p/bv_domain_bitvector_domain.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabv.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabv.a.p/bv_domain_wheel_factorizer.cpp.o -MF src/lib/libbitwuzlabv.a.p/bv_domain_wheel_factorizer.cpp.o.d -o src/lib/libbitwuzlabv.a.p/bv_domain_wheel_factorizer.cpp.o -c ../src/lib/bv/domain/wheel_factorizer.cpp",
+    "file": "../src/lib/bv/domain/wheel_factorizer.cpp",
+    "output": "src/lib/libbitwuzlabv.a.p/bv_domain_wheel_factorizer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabb.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_cnf.cpp.o -MF src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_cnf.cpp.o.d -o src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_cnf.cpp.o -c ../src/lib/bitblast/aig/aig_cnf.cpp",
+    "file": "../src/lib/bitblast/aig/aig_cnf.cpp",
+    "output": "src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_cnf.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabb.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_manager.cpp.o -MF src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_manager.cpp.o.d -o src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_manager.cpp.o -c ../src/lib/bitblast/aig/aig_manager.cpp",
+    "file": "../src/lib/bitblast/aig/aig_manager.cpp",
+    "output": "src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_manager.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabb.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_node.cpp.o -MF src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_node.cpp.o.d -o src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_node.cpp.o -c ../src/lib/bitblast/aig/aig_node.cpp",
+    "file": "../src/lib/bitblast/aig/aig_node.cpp",
+    "output": "src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_node.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlabb.a.p -Isrc/lib -I../src/lib -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_printer.cpp.o -MF src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_printer.cpp.o.d -o src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_printer.cpp.o -c ../src/lib/bitblast/aig/aig_printer.cpp",
+    "file": "../src/lib/bitblast/aig/aig_printer.cpp",
+    "output": "src/lib/libbitwuzlabb.a.p/bitblast_aig_aig_printer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlals.a.p -Isrc/lib -I../src/lib -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlals.a.p/ls_ls.cpp.o -MF src/lib/libbitwuzlals.a.p/ls_ls.cpp.o.d -o src/lib/libbitwuzlals.a.p/ls_ls.cpp.o -c ../src/lib/ls/ls.cpp",
+    "file": "../src/lib/ls/ls.cpp",
+    "output": "src/lib/libbitwuzlals.a.p/ls_ls.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlals.a.p -Isrc/lib -I../src/lib -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlals.a.p/ls_ls_bv.cpp.o -MF src/lib/libbitwuzlals.a.p/ls_ls_bv.cpp.o.d -o src/lib/libbitwuzlals.a.p/ls_ls_bv.cpp.o -c ../src/lib/ls/ls_bv.cpp",
+    "file": "../src/lib/ls/ls_bv.cpp",
+    "output": "src/lib/libbitwuzlals.a.p/ls_ls_bv.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlals.a.p -Isrc/lib -I../src/lib -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlals.a.p/ls_bv_bitvector_node.cpp.o -MF src/lib/libbitwuzlals.a.p/ls_bv_bitvector_node.cpp.o.d -o src/lib/libbitwuzlals.a.p/ls_bv_bitvector_node.cpp.o -c ../src/lib/ls/bv/bitvector_node.cpp",
+    "file": "../src/lib/ls/bv/bitvector_node.cpp",
+    "output": "src/lib/libbitwuzlals.a.p/ls_bv_bitvector_node.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/lib/libbitwuzlals.a.p -Isrc/lib -I../src/lib -Isrc -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -MD -MQ src/lib/libbitwuzlals.a.p/ls_node_node.cpp.o -MF src/lib/libbitwuzlals.a.p/ls_node_node.cpp.o.d -o src/lib/libbitwuzlals.a.p/ls_node_node.cpp.o -c ../src/lib/ls/node/node.cpp",
+    "file": "../src/lib/ls/node/node.cpp",
+    "output": "src/lib/libbitwuzlals.a.p/ls_node_node.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_c_bitwuzla.cpp.o -MF src/libbitwuzla.a.p/api_c_bitwuzla.cpp.o.d -o src/libbitwuzla.a.p/api_c_bitwuzla.cpp.o -c ../src/api/c/bitwuzla.cpp",
+    "file": "../src/api/c/bitwuzla.cpp",
+    "output": "src/libbitwuzla.a.p/api_c_bitwuzla.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_c_bitwuzla_structs.cpp.o -MF src/libbitwuzla.a.p/api_c_bitwuzla_structs.cpp.o.d -o src/libbitwuzla.a.p/api_c_bitwuzla_structs.cpp.o -c ../src/api/c/bitwuzla_structs.cpp",
+    "file": "../src/api/c/bitwuzla_structs.cpp",
+    "output": "src/libbitwuzla.a.p/api_c_bitwuzla_structs.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_c_parser.cpp.o -MF src/libbitwuzla.a.p/api_c_parser.cpp.o.d -o src/libbitwuzla.a.p/api_c_parser.cpp.o -c ../src/api/c/parser.cpp",
+    "file": "../src/api/c/parser.cpp",
+    "output": "src/libbitwuzla.a.p/api_c_parser.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_checks.cpp.o -MF src/libbitwuzla.a.p/api_checks.cpp.o.d -o src/libbitwuzla.a.p/api_checks.cpp.o -c ../src/api/checks.cpp",
+    "file": "../src/api/checks.cpp",
+    "output": "src/libbitwuzla.a.p/api_checks.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_cpp_bitwuzla.cpp.o -MF src/libbitwuzla.a.p/api_cpp_bitwuzla.cpp.o.d -o src/libbitwuzla.a.p/api_cpp_bitwuzla.cpp.o -c ../src/api/cpp/bitwuzla.cpp",
+    "file": "../src/api/cpp/bitwuzla.cpp",
+    "output": "src/libbitwuzla.a.p/api_cpp_bitwuzla.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/api_cpp_parser.cpp.o -MF src/libbitwuzla.a.p/api_cpp_parser.cpp.o.d -o src/libbitwuzla.a.p/api_cpp_parser.cpp.o -c ../src/api/cpp/parser.cpp",
+    "file": "../src/api/cpp/parser.cpp",
+    "output": "src/libbitwuzla.a.p/api_cpp_parser.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/backtrack_assertion_stack.cpp.o -MF src/libbitwuzla.a.p/backtrack_assertion_stack.cpp.o.d -o src/libbitwuzla.a.p/backtrack_assertion_stack.cpp.o -c ../src/backtrack/assertion_stack.cpp",
+    "file": "../src/backtrack/assertion_stack.cpp",
+    "output": "src/libbitwuzla.a.p/backtrack_assertion_stack.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/backtrack_backtrackable.cpp.o -MF src/libbitwuzla.a.p/backtrack_backtrackable.cpp.o.d -o src/libbitwuzla.a.p/backtrack_backtrackable.cpp.o -c ../src/backtrack/backtrackable.cpp",
+    "file": "../src/backtrack/backtrackable.cpp",
+    "output": "src/libbitwuzla.a.p/backtrack_backtrackable.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/check_check_model.cpp.o -MF src/libbitwuzla.a.p/check_check_model.cpp.o.d -o src/libbitwuzla.a.p/check_check_model.cpp.o -c ../src/check/check_model.cpp",
+    "file": "../src/check/check_model.cpp",
+    "output": "src/libbitwuzla.a.p/check_check_model.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/check_check_unsat_core.cpp.o -MF src/libbitwuzla.a.p/check_check_unsat_core.cpp.o.d -o src/libbitwuzla.a.p/check_check_unsat_core.cpp.o -c ../src/check/check_unsat_core.cpp",
+    "file": "../src/check/check_unsat_core.cpp",
+    "output": "src/libbitwuzla.a.p/check_check_unsat_core.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/env.cpp.o -MF src/libbitwuzla.a.p/env.cpp.o.d -o src/libbitwuzla.a.p/env.cpp.o -c ../src/env.cpp",
+    "file": "../src/env.cpp",
+    "output": "src/libbitwuzla.a.p/env.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_kind_info.cpp.o -MF src/libbitwuzla.a.p/node_kind_info.cpp.o.d -o src/libbitwuzla.a.p/node_kind_info.cpp.o -c ../src/node/kind_info.cpp",
+    "file": "../src/node/kind_info.cpp",
+    "output": "src/libbitwuzla.a.p/node_kind_info.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node.cpp.o -MF src/libbitwuzla.a.p/node_node.cpp.o.d -o src/libbitwuzla.a.p/node_node.cpp.o -c ../src/node/node.cpp",
+    "file": "../src/node/node.cpp",
+    "output": "src/libbitwuzla.a.p/node_node.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node_data.cpp.o -MF src/libbitwuzla.a.p/node_node_data.cpp.o.d -o src/libbitwuzla.a.p/node_node_data.cpp.o -c ../src/node/node_data.cpp",
+    "file": "../src/node/node_data.cpp",
+    "output": "src/libbitwuzla.a.p/node_node_data.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node_kind.cpp.o -MF src/libbitwuzla.a.p/node_node_kind.cpp.o.d -o src/libbitwuzla.a.p/node_node_kind.cpp.o -c ../src/node/node_kind.cpp",
+    "file": "../src/node/node_kind.cpp",
+    "output": "src/libbitwuzla.a.p/node_node_kind.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node_manager.cpp.o -MF src/libbitwuzla.a.p/node_node_manager.cpp.o.d -o src/libbitwuzla.a.p/node_node_manager.cpp.o -c ../src/node/node_manager.cpp",
+    "file": "../src/node/node_manager.cpp",
+    "output": "src/libbitwuzla.a.p/node_node_manager.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node_unique_table.cpp.o -MF src/libbitwuzla.a.p/node_node_unique_table.cpp.o.d -o src/libbitwuzla.a.p/node_node_unique_table.cpp.o -c ../src/node/node_unique_table.cpp",
+    "file": "../src/node/node_unique_table.cpp",
+    "output": "src/libbitwuzla.a.p/node_node_unique_table.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/node_node_utils.cpp.o -MF src/libbitwuzla.a.p/node_node_utils.cpp.o.d -o src/libbitwuzla.a.p/node_node_utils.cpp.o -c ../src/node/node_utils.cpp",
+    "file": "../src/node/node_utils.cpp",
+    "output": "src/libbitwuzla.a.p/node_node_utils.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/option_option.cpp.o -MF src/libbitwuzla.a.p/option_option.cpp.o.d -o src/libbitwuzla.a.p/option_option.cpp.o -c ../src/option/option.cpp",
+    "file": "../src/option/option.cpp",
+    "output": "src/libbitwuzla.a.p/option_option.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_btor2_lexer.cpp.o -MF src/libbitwuzla.a.p/parser_btor2_lexer.cpp.o.d -o src/libbitwuzla.a.p/parser_btor2_lexer.cpp.o -c ../src/parser/btor2/lexer.cpp",
+    "file": "../src/parser/btor2/lexer.cpp",
+    "output": "src/libbitwuzla.a.p/parser_btor2_lexer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_btor2_parser.cpp.o -MF src/libbitwuzla.a.p/parser_btor2_parser.cpp.o.d -o src/libbitwuzla.a.p/parser_btor2_parser.cpp.o -c ../src/parser/btor2/parser.cpp",
+    "file": "../src/parser/btor2/parser.cpp",
+    "output": "src/libbitwuzla.a.p/parser_btor2_parser.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_btor2_token.cpp.o -MF src/libbitwuzla.a.p/parser_btor2_token.cpp.o.d -o src/libbitwuzla.a.p/parser_btor2_token.cpp.o -c ../src/parser/btor2/token.cpp",
+    "file": "../src/parser/btor2/token.cpp",
+    "output": "src/libbitwuzla.a.p/parser_btor2_token.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_smt2_lexer.cpp.o -MF src/libbitwuzla.a.p/parser_smt2_lexer.cpp.o.d -o src/libbitwuzla.a.p/parser_smt2_lexer.cpp.o -c ../src/parser/smt2/lexer.cpp",
+    "file": "../src/parser/smt2/lexer.cpp",
+    "output": "src/libbitwuzla.a.p/parser_smt2_lexer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_smt2_parser.cpp.o -MF src/libbitwuzla.a.p/parser_smt2_parser.cpp.o.d -o src/libbitwuzla.a.p/parser_smt2_parser.cpp.o -c ../src/parser/smt2/parser.cpp",
+    "file": "../src/parser/smt2/parser.cpp",
+    "output": "src/libbitwuzla.a.p/parser_smt2_parser.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_smt2_symbol_table.cpp.o -MF src/libbitwuzla.a.p/parser_smt2_symbol_table.cpp.o.d -o src/libbitwuzla.a.p/parser_smt2_symbol_table.cpp.o -c ../src/parser/smt2/symbol_table.cpp",
+    "file": "../src/parser/smt2/symbol_table.cpp",
+    "output": "src/libbitwuzla.a.p/parser_smt2_symbol_table.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/parser_smt2_token.cpp.o -MF src/libbitwuzla.a.p/parser_smt2_token.cpp.o.d -o src/libbitwuzla.a.p/parser_smt2_token.cpp.o -c ../src/parser/smt2/token.cpp",
+    "file": "../src/parser/smt2/token.cpp",
+    "output": "src/libbitwuzla.a.p/parser_smt2_token.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_assertion_tracker.cpp.o -MF src/libbitwuzla.a.p/preprocess_assertion_tracker.cpp.o.d -o src/libbitwuzla.a.p/preprocess_assertion_tracker.cpp.o -c ../src/preprocess/assertion_tracker.cpp",
+    "file": "../src/preprocess/assertion_tracker.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_assertion_tracker.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_assertion_vector.cpp.o -MF src/libbitwuzla.a.p/preprocess_assertion_vector.cpp.o.d -o src/libbitwuzla.a.p/preprocess_assertion_vector.cpp.o -c ../src/preprocess/assertion_vector.cpp",
+    "file": "../src/preprocess/assertion_vector.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_assertion_vector.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_contradicting_ands.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_contradicting_ands.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_contradicting_ands.cpp.o -c ../src/preprocess/pass/contradicting_ands.cpp",
+    "file": "../src/preprocess/pass/contradicting_ands.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_contradicting_ands.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_elim_extract.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_elim_extract.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_elim_extract.cpp.o -c ../src/preprocess/pass/elim_extract.cpp",
+    "file": "../src/preprocess/pass/elim_extract.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_elim_extract.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_elim_lambda.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_elim_lambda.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_elim_lambda.cpp.o -c ../src/preprocess/pass/elim_lambda.cpp",
+    "file": "../src/preprocess/pass/elim_lambda.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_elim_lambda.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_elim_udiv.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_elim_udiv.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_elim_udiv.cpp.o -c ../src/preprocess/pass/elim_udiv.cpp",
+    "file": "../src/preprocess/pass/elim_udiv.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_elim_udiv.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_elim_uninterpreted.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_elim_uninterpreted.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_elim_uninterpreted.cpp.o -c ../src/preprocess/pass/elim_uninterpreted.cpp",
+    "file": "../src/preprocess/pass/elim_uninterpreted.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_elim_uninterpreted.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_embedded_constraints.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_embedded_constraints.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_embedded_constraints.cpp.o -c ../src/preprocess/pass/embedded_constraints.cpp",
+    "file": "../src/preprocess/pass/embedded_constraints.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_embedded_constraints.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_flatten_and.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_flatten_and.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_flatten_and.cpp.o -c ../src/preprocess/pass/flatten_and.cpp",
+    "file": "../src/preprocess/pass/flatten_and.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_flatten_and.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_normalize.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_normalize.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_normalize.cpp.o -c ../src/preprocess/pass/normalize.cpp",
+    "file": "../src/preprocess/pass/normalize.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_normalize.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_rewrite.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_rewrite.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_rewrite.cpp.o -c ../src/preprocess/pass/rewrite.cpp",
+    "file": "../src/preprocess/pass/rewrite.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_rewrite.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_skeleton_preproc.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_skeleton_preproc.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_skeleton_preproc.cpp.o -c ../src/preprocess/pass/skeleton_preproc.cpp",
+    "file": "../src/preprocess/pass/skeleton_preproc.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_skeleton_preproc.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_pass_variable_substitution.cpp.o -MF src/libbitwuzla.a.p/preprocess_pass_variable_substitution.cpp.o.d -o src/libbitwuzla.a.p/preprocess_pass_variable_substitution.cpp.o -c ../src/preprocess/pass/variable_substitution.cpp",
+    "file": "../src/preprocess/pass/variable_substitution.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_pass_variable_substitution.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_preprocessing_pass.cpp.o -MF src/libbitwuzla.a.p/preprocess_preprocessing_pass.cpp.o.d -o src/libbitwuzla.a.p/preprocess_preprocessing_pass.cpp.o -c ../src/preprocess/preprocessing_pass.cpp",
+    "file": "../src/preprocess/preprocessing_pass.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_preprocessing_pass.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/preprocess_preprocessor.cpp.o -MF src/libbitwuzla.a.p/preprocess_preprocessor.cpp.o.d -o src/libbitwuzla.a.p/preprocess_preprocessor.cpp.o -c ../src/preprocess/preprocessor.cpp",
+    "file": "../src/preprocess/preprocessor.cpp",
+    "output": "src/libbitwuzla.a.p/preprocess_preprocessor.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/printer_printer.cpp.o -MF src/libbitwuzla.a.p/printer_printer.cpp.o.d -o src/libbitwuzla.a.p/printer_printer.cpp.o -c ../src/printer/printer.cpp",
+    "file": "../src/printer/printer.cpp",
+    "output": "src/libbitwuzla.a.p/printer_printer.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_evaluator.cpp.o -MF src/libbitwuzla.a.p/rewrite_evaluator.cpp.o.d -o src/libbitwuzla.a.p/rewrite_evaluator.cpp.o -c ../src/rewrite/evaluator.cpp",
+    "file": "../src/rewrite/evaluator.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_evaluator.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrite_utils.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrite_utils.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrite_utils.cpp.o -c ../src/rewrite/rewrite_utils.cpp",
+    "file": "../src/rewrite/rewrite_utils.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrite_utils.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewriter.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewriter.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewriter.cpp.o -c ../src/rewrite/rewriter.cpp",
+    "file": "../src/rewrite/rewriter.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewriter.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_array.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_array.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_array.cpp.o -c ../src/rewrite/rewrites_array.cpp",
+    "file": "../src/rewrite/rewrites_array.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_array.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_bool.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_bool.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_bool.cpp.o -c ../src/rewrite/rewrites_bool.cpp",
+    "file": "../src/rewrite/rewrites_bool.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_bool.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_bv.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_bv.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_bv.cpp.o -c ../src/rewrite/rewrites_bv.cpp",
+    "file": "../src/rewrite/rewrites_bv.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_bv.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_bv_norm.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_bv_norm.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_bv_norm.cpp.o -c ../src/rewrite/rewrites_bv_norm.cpp",
+    "file": "../src/rewrite/rewrites_bv_norm.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_bv_norm.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_core.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_core.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_core.cpp.o -c ../src/rewrite/rewrites_core.cpp",
+    "file": "../src/rewrite/rewrites_core.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_core.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/rewrite_rewrites_fp.cpp.o -MF src/libbitwuzla.a.p/rewrite_rewrites_fp.cpp.o.d -o src/libbitwuzla.a.p/rewrite_rewrites_fp.cpp.o -c ../src/rewrite/rewrites_fp.cpp",
+    "file": "../src/rewrite/rewrites_fp.cpp",
+    "output": "src/libbitwuzla.a.p/rewrite_rewrites_fp.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/resource_terminator.cpp.o -MF src/libbitwuzla.a.p/resource_terminator.cpp.o.d -o src/libbitwuzla.a.p/resource_terminator.cpp.o -c ../src/resource_terminator.cpp",
+    "file": "../src/resource_terminator.cpp",
+    "output": "src/libbitwuzla.a.p/resource_terminator.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/sat_cadical.cpp.o -MF src/libbitwuzla.a.p/sat_cadical.cpp.o.d -o src/libbitwuzla.a.p/sat_cadical.cpp.o -c ../src/sat/cadical.cpp",
+    "file": "../src/sat/cadical.cpp",
+    "output": "src/libbitwuzla.a.p/sat_cadical.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/sat_cryptominisat.cpp.o -MF src/libbitwuzla.a.p/sat_cryptominisat.cpp.o.d -o src/libbitwuzla.a.p/sat_cryptominisat.cpp.o -c ../src/sat/cryptominisat.cpp",
+    "file": "../src/sat/cryptominisat.cpp",
+    "output": "src/libbitwuzla.a.p/sat_cryptominisat.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/sat_kissat.cpp.o -MF src/libbitwuzla.a.p/sat_kissat.cpp.o.d -o src/libbitwuzla.a.p/sat_kissat.cpp.o -c ../src/sat/kissat.cpp",
+    "file": "../src/sat/kissat.cpp",
+    "output": "src/libbitwuzla.a.p/sat_kissat.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/sat_sat_solver_factory.cpp.o -MF src/libbitwuzla.a.p/sat_sat_solver_factory.cpp.o.d -o src/libbitwuzla.a.p/sat_sat_solver_factory.cpp.o -c ../src/sat/sat_solver_factory.cpp",
+    "file": "../src/sat/sat_solver_factory.cpp",
+    "output": "src/libbitwuzla.a.p/sat_sat_solver_factory.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_array_array_solver.cpp.o -MF src/libbitwuzla.a.p/solver_array_array_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_array_array_solver.cpp.o -c ../src/solver/array/array_solver.cpp",
+    "file": "../src/solver/array/array_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_array_array_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_abstract_abstraction_lemmas.cpp.o -MF src/libbitwuzla.a.p/solver_abstract_abstraction_lemmas.cpp.o.d -o src/libbitwuzla.a.p/solver_abstract_abstraction_lemmas.cpp.o -c ../src/solver/abstract/abstraction_lemmas.cpp",
+    "file": "../src/solver/abstract/abstraction_lemmas.cpp",
+    "output": "src/libbitwuzla.a.p/solver_abstract_abstraction_lemmas.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_abstract_abstraction_module.cpp.o -MF src/libbitwuzla.a.p/solver_abstract_abstraction_module.cpp.o.d -o src/libbitwuzla.a.p/solver_abstract_abstraction_module.cpp.o -c ../src/solver/abstract/abstraction_module.cpp",
+    "file": "../src/solver/abstract/abstraction_module.cpp",
+    "output": "src/libbitwuzla.a.p/solver_abstract_abstraction_module.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_bv_bv_bitblast_solver.cpp.o -MF src/libbitwuzla.a.p/solver_bv_bv_bitblast_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_bv_bv_bitblast_solver.cpp.o -c ../src/solver/bv/bv_bitblast_solver.cpp",
+    "file": "../src/solver/bv/bv_bitblast_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_bv_bv_bitblast_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_bv_bv_prop_solver.cpp.o -MF src/libbitwuzla.a.p/solver_bv_bv_prop_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_bv_bv_prop_solver.cpp.o -c ../src/solver/bv/bv_prop_solver.cpp",
+    "file": "../src/solver/bv/bv_prop_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_bv_bv_prop_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_bv_bv_solver.cpp.o -MF src/libbitwuzla.a.p/solver_bv_bv_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_bv_bv_solver.cpp.o -c ../src/solver/bv/bv_solver.cpp",
+    "file": "../src/solver/bv/bv_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_bv_bv_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_bv_aig_bitblaster.cpp.o -MF src/libbitwuzla.a.p/solver_bv_aig_bitblaster.cpp.o.d -o src/libbitwuzla.a.p/solver_bv_aig_bitblaster.cpp.o -c ../src/solver/bv/aig_bitblaster.cpp",
+    "file": "../src/solver/bv/aig_bitblaster.cpp",
+    "output": "src/libbitwuzla.a.p/solver_bv_aig_bitblaster.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_floating_point.cpp.o -MF src/libbitwuzla.a.p/solver_fp_floating_point.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_floating_point.cpp.o -c ../src/solver/fp/floating_point.cpp",
+    "file": "../src/solver/fp/floating_point.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_floating_point.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_fp_solver.cpp.o -MF src/libbitwuzla.a.p/solver_fp_fp_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_fp_solver.cpp.o -c ../src/solver/fp/fp_solver.cpp",
+    "file": "../src/solver/fp/fp_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_fp_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_rounding_mode.cpp.o -MF src/libbitwuzla.a.p/solver_fp_rounding_mode.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_rounding_mode.cpp.o -c ../src/solver/fp/rounding_mode.cpp",
+    "file": "../src/solver/fp/rounding_mode.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_rounding_mode.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_symfpu_nm.cpp.o -MF src/libbitwuzla.a.p/solver_fp_symfpu_nm.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_symfpu_nm.cpp.o -c ../src/solver/fp/symfpu_nm.cpp",
+    "file": "../src/solver/fp/symfpu_nm.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_symfpu_nm.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_symfpu_wrapper.cpp.o -MF src/libbitwuzla.a.p/solver_fp_symfpu_wrapper.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_symfpu_wrapper.cpp.o -c ../src/solver/fp/symfpu_wrapper.cpp",
+    "file": "../src/solver/fp/symfpu_wrapper.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_symfpu_wrapper.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fp_word_blaster.cpp.o -MF src/libbitwuzla.a.p/solver_fp_word_blaster.cpp.o.d -o src/libbitwuzla.a.p/solver_fp_word_blaster.cpp.o -c ../src/solver/fp/word_blaster.cpp",
+    "file": "../src/solver/fp/word_blaster.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fp_word_blaster.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_fun_fun_solver.cpp.o -MF src/libbitwuzla.a.p/solver_fun_fun_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_fun_fun_solver.cpp.o -c ../src/solver/fun/fun_solver.cpp",
+    "file": "../src/solver/fun/fun_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_fun_fun_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_quant_quant_solver.cpp.o -MF src/libbitwuzla.a.p/solver_quant_quant_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_quant_quant_solver.cpp.o -c ../src/solver/quant/quant_solver.cpp",
+    "file": "../src/solver/quant/quant_solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_quant_quant_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_result.cpp.o -MF src/libbitwuzla.a.p/solver_result.cpp.o.d -o src/libbitwuzla.a.p/solver_result.cpp.o -c ../src/solver/result.cpp",
+    "file": "../src/solver/result.cpp",
+    "output": "src/libbitwuzla.a.p/solver_result.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_solver.cpp.o -MF src/libbitwuzla.a.p/solver_solver.cpp.o.d -o src/libbitwuzla.a.p/solver_solver.cpp.o -c ../src/solver/solver.cpp",
+    "file": "../src/solver/solver.cpp",
+    "output": "src/libbitwuzla.a.p/solver_solver.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_solver_engine.cpp.o -MF src/libbitwuzla.a.p/solver_solver_engine.cpp.o.d -o src/libbitwuzla.a.p/solver_solver_engine.cpp.o -c ../src/solver/solver_engine.cpp",
+    "file": "../src/solver/solver_engine.cpp",
+    "output": "src/libbitwuzla.a.p/solver_solver_engine.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solver_solver_state.cpp.o -MF src/libbitwuzla.a.p/solver_solver_state.cpp.o.d -o src/libbitwuzla.a.p/solver_solver_state.cpp.o -c ../src/solver/solver_state.cpp",
+    "file": "../src/solver/solver_state.cpp",
+    "output": "src/libbitwuzla.a.p/solver_solver_state.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/solving_context.cpp.o -MF src/libbitwuzla.a.p/solving_context.cpp.o.d -o src/libbitwuzla.a.p/solving_context.cpp.o -c ../src/solving_context.cpp",
+    "file": "../src/solving_context.cpp",
+    "output": "src/libbitwuzla.a.p/solving_context.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/type_type.cpp.o -MF src/libbitwuzla.a.p/type_type.cpp.o.d -o src/libbitwuzla.a.p/type_type.cpp.o -c ../src/type/type.cpp",
+    "file": "../src/type/type.cpp",
+    "output": "src/libbitwuzla.a.p/type_type.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/type_type_data.cpp.o -MF src/libbitwuzla.a.p/type_type_data.cpp.o.d -o src/libbitwuzla.a.p/type_type_data.cpp.o -c ../src/type/type_data.cpp",
+    "file": "../src/type/type_data.cpp",
+    "output": "src/libbitwuzla.a.p/type_type_data.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/libbitwuzla.a.p -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -fPIC -isystem../subprojects/symfpu -isystemsubprojects/symfpu -DHAVE_RUSAGE -MD -MQ src/libbitwuzla.a.p/type_type_manager.cpp.o -MF src/libbitwuzla.a.p/type_type_manager.cpp.o.d -o src/libbitwuzla.a.p/type_type_manager.cpp.o -c ../src/type/type_manager.cpp",
+    "file": "../src/type/type_manager.cpp",
+    "output": "src/libbitwuzla.a.p/type_type_manager.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/main/bitwuzla.p -Isrc/main -I../src/main -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -pthread -isystem../subprojects/symfpu -isystemsubprojects/symfpu -MD -MQ src/main/bitwuzla.p/main.cpp.o -MF src/main/bitwuzla.p/main.cpp.o.d -o src/main/bitwuzla.p/main.cpp.o -c ../src/main/main.cpp",
+    "file": "../src/main/main.cpp",
+    "output": "src/main/bitwuzla.p/main.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/main/bitwuzla.p -Isrc/main -I../src/main -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -pthread -isystem../subprojects/symfpu -isystemsubprojects/symfpu -MD -MQ src/main/bitwuzla.p/options.cpp.o -MF src/main/bitwuzla.p/options.cpp.o.d -o src/main/bitwuzla.p/options.cpp.o -c ../src/main/options.cpp",
+    "file": "../src/main/options.cpp",
+    "output": "src/main/bitwuzla.p/options.cpp.o"
+  },
+  {
+    "directory": "/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build",
+    "command": "/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Isrc/main/bitwuzla.p -Isrc/main -I../src/main -Isrc -I../src -I../include -Isrc/lib -I../src/lib -Isubprojects/cadical-rel-2.1.2/src -I../subprojects/cadical-rel-2.1.2/src -Isubprojects/symfpu/symfpu/core -Isubprojects/symfpu/symfpu/utils -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c++17 -O3 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -pthread -isystem../subprojects/symfpu -isystemsubprojects/symfpu -MD -MQ src/main/bitwuzla.p/time_limit.cpp.o -MF src/main/bitwuzla.p/time_limit.cpp.o.d -o src/main/bitwuzla.p/time_limit.cpp.o -c ../src/main/time_limit.cpp",
+    "file": "../src/main/time_limit.cpp",
+    "output": "src/main/bitwuzla.p/time_limit.cpp.o"
+  }
+]

@@ -1,0 +1,10 @@
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/wasim-lib.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/uninstall.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/bmc.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/cec.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/edit_cache.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/rebuild_cache.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/list_install_components.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/install.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/install/local.dir
+/home/jiongming/desktop/FORWORD/build/CMakeFiles/install/strip.dir

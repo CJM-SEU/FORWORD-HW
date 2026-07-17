@@ -1,0 +1,23 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/enums.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/option.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/c/bitwuzla.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/c/parser.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/cpp/bitwuzla.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/cpp/parser.h
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabv.a
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlabb.a
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzlals.a
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/libbitwuzla.a
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/bin/bitwuzla
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/pkgconfig/bitwuzla.pc
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu/pkgconfig
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/bin
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/cpp
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla/c
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include/bitwuzla
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/include
+/home/jiongming/FORWORD_build/deps/smt-switch/deps/install

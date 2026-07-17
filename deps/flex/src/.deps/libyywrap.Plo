@@ -1,0 +1,3 @@
+libyywrap.lo: libyywrap.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:

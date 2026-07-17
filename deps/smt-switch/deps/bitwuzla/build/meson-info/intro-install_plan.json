@@ -1,0 +1,55 @@
+{
+  "targets": {
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabv.a": {
+      "destination": "{libdir_static}/libbitwuzlabv.a",
+      "tag": "devel",
+      "subproject": null,
+      "install_rpath": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu",
+      "build_rpaths": []
+    },
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlabb.a": {
+      "destination": "{libdir_static}/libbitwuzlabb.a",
+      "tag": "devel",
+      "subproject": null,
+      "install_rpath": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu",
+      "build_rpaths": []
+    },
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/lib/libbitwuzlals.a": {
+      "destination": "{libdir_static}/libbitwuzlals.a",
+      "tag": "devel",
+      "subproject": null,
+      "install_rpath": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu",
+      "build_rpaths": []
+    },
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/libbitwuzla.a": {
+      "destination": "{libdir_static}/libbitwuzla.a",
+      "tag": "devel",
+      "subproject": null,
+      "install_rpath": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu",
+      "build_rpaths": []
+    },
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/src/main/bitwuzla": {
+      "destination": "{bindir}/bitwuzla",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": "/home/jiongming/FORWORD_build/deps/smt-switch/deps/install/lib/x86_64-linux-gnu",
+      "build_rpaths": []
+    }
+  },
+  "data": {
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/bitwuzla.pc": {
+      "destination": "{libdir}/pkgconfig/bitwuzla.pc",
+      "tag": "devel",
+      "subproject": null
+    }
+  },
+  "install_subdirs": {
+    "/home/jiongming/\u684c\u9762/FORWORD/deps/smt-switch/deps/bitwuzla/include/bitwuzla": {
+      "destination": "{prefix}/include/bitwuzla",
+      "tag": "devel",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    }
+  }
+}

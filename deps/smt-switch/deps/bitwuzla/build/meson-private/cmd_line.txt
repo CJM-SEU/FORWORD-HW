@@ -1,0 +1,6 @@
+[options]
+prefix = /home/jiongming/FORWORD_build/deps/smt-switch/deps/install
+fpexp = false
+
+[properties]
+

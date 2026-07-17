@@ -1,0 +1,10 @@
+lib/libbison_a-gl_list.o: lib/gl_list.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ lib/config.h lib/gl_list.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:
+lib/config.h:
+lib/gl_list.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h:

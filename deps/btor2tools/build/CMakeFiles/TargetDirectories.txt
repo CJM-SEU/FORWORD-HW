@@ -1,0 +1,16 @@
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/edit_cache.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/rebuild_cache.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/list_install_components.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/install.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/install/local.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/CMakeFiles/install/strip.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/btor2parser.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/btorsim.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/catbtor.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/btorsplit.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/edit_cache.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/rebuild_cache.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/list_install_components.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/install.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/install/local.dir
+/home/jiongming/桌面/FORWORD/deps/btor2tools/build/src/CMakeFiles/install/strip.dir

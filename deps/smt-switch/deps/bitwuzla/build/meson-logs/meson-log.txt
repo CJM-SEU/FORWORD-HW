@@ -1,0 +1,582 @@
+Build started at 2026-07-07T13:01:13.316145
+Main binary: /home/jiongming/.conda/envs/forward/bin/python3.10
+Build Options: -Dprefix=/home/jiongming/FORWORD_build/deps/smt-switch/deps/install -Dfpexp=false
+Python system: Linux
+The Meson build system
+Version: 1.11.1
+Source dir: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla
+Build dir: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build
+Build type: native build
+Project name: bitwuzla
+Project version: 0.7.0-dev
+-----------
+Detecting compiler via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc --version` -> 0
+stdout:
+x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-----------
+Running command: -cpp -x c -E -dM -
+-----
+-----------
+Detecting linker via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc -Wl,--version -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include` -> 0
+stdout:
+GNU ld (GNU Binutils) 2.44
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+-----------
+stderr:
+collect2 version 14.3.0
+/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/ld -disable-new-dtags -plugin /home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/liblto_plugin.so -plugin-opt=/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccbsWqwP.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtbeginS.o -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0 -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc -L/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib -L/home/jiongming/.conda/envs/forward/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/jiongming/FORWORD_build/deps/gmp-install/lib -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../.. -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib --version -O2 --sort-common --as-needed -z relro -z now --disable-new-dtags --gc-sections --allow-shlib-undefined -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtendS.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -L /home/jiongming/.conda/envs/forward/lib/stubs -L /home/jiongming/.conda/envs/forward/lib
+-----------
+Sanity check compiler command line: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc -D_FILE_OFFSET_BITS=64 -o sanity_check_for_c.exe sanity_check_for_c.c -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include -D_FILE_OFFSET_BITS=64 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Sanity check built target output for host machine c compiler
+ -- Running test binary command:  '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_c.exe'
+-----------
+Sanity check: `'/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_c.exe'` -> 0
+ -- stdout:
+ 
+ -- stderr:
+ 
+ -- returncode: 0
+C compiler for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc (gcc 14.3.0 "x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0")
+C linker for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc ld.bfd 2.44
+-----------
+Detecting archiver via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-ar --version` -> 0
+stdout:
+GNU ar (GNU Binutils) 2.44
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) any later version.
+This program has absolutely no warranty.
+-----------
+-----------
+Detecting compiler via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ --version` -> 0
+stdout:
+x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-----------
+Running command: -cpp -x c++ -E -dM -
+-----
+-----------
+Detecting linker via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Wl,--version -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include` -> 0
+stdout:
+GNU ld (GNU Binutils) 2.44
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+-----------
+stderr:
+collect2 version 14.3.0
+/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/ld -disable-new-dtags -plugin /home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/liblto_plugin.so -plugin-opt=/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccPKCKvX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtbeginS.o -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0 -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc -L/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib -L/home/jiongming/.conda/envs/forward/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/jiongming/FORWORD_build/deps/gmp-install/lib -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../.. -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib --version -O2 --sort-common --as-needed -z relro -z now --disable-new-dtags --gc-sections --allow-shlib-undefined -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtendS.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -L /home/jiongming/.conda/envs/forward/lib/stubs -L /home/jiongming/.conda/envs/forward/lib
+-----------
+Sanity check compiler command line: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -D_FILE_OFFSET_BITS=64 -o sanity_check_for_cpp.exe sanity_check_for_cpp.cpp -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include -D_FILE_OFFSET_BITS=64 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Sanity check built target output for host machine cpp compiler
+ -- Running test binary command:  '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_cpp.exe'
+-----------
+Sanity check: `'/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_cpp.exe'` -> 0
+ -- stdout:
+ 
+ -- stderr:
+ 
+ -- returncode: 0
+C++ compiler for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+-----------
+Detecting compiler via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc --version` -> 0
+stdout:
+x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-----------
+Running command: -cpp -x c -E -dM -
+-----
+-----------
+Detecting linker via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc -Wl,--version -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include` -> 0
+stdout:
+GNU ld (GNU Binutils) 2.44
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+-----------
+stderr:
+collect2 version 14.3.0
+/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/ld -disable-new-dtags -plugin /home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/liblto_plugin.so -plugin-opt=/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuUMrVn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtbeginS.o -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0 -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc -L/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib -L/home/jiongming/.conda/envs/forward/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/jiongming/FORWORD_build/deps/gmp-install/lib -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../.. -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib --version -O2 --sort-common --as-needed -z relro -z now --disable-new-dtags --gc-sections --allow-shlib-undefined -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtendS.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -L /home/jiongming/.conda/envs/forward/lib/stubs -L /home/jiongming/.conda/envs/forward/lib
+-----------
+Sanity check compiler command line: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc -D_FILE_OFFSET_BITS=64 -o sanity_check_for_c.exe sanity_check_for_c.c -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include -D_FILE_OFFSET_BITS=64 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Sanity check built target output for build machine c compiler
+ -- Running test binary command:  '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_c.exe'
+-----------
+Sanity check: `'/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_c.exe'` -> 0
+ -- stdout:
+ 
+ -- stderr:
+ 
+ -- returncode: 0
+C compiler for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc (gcc 14.3.0 "x86_64-conda-linux-gnu-cc (conda-forge gcc 14.3.0-7) 14.3.0")
+C linker for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc ld.bfd 2.44
+-----------
+Detecting compiler via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ --version` -> 0
+stdout:
+x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-----------
+Running command: -cpp -x c++ -E -dM -
+-----
+-----------
+Detecting linker via: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -Wl,--version -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include` -> 0
+stdout:
+GNU ld (GNU Binutils) 2.44
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+-----------
+stderr:
+collect2 version 14.3.0
+/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/ld -disable-new-dtags -plugin /home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/liblto_plugin.so -plugin-opt=/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccucJFAX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtbeginS.o -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0 -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc -L/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib -L/home/jiongming/.conda/envs/forward/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/jiongming/FORWORD_build/deps/gmp-install/lib -L/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib -L/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../.. -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib --version -O2 --sort-common --as-needed -z relro -z now --disable-new-dtags --gc-sections --allow-shlib-undefined -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/crtendS.o /home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/jiongming/.conda/envs/forward/lib -rpath-link /home/jiongming/.conda/envs/forward/lib -L /home/jiongming/.conda/envs/forward/lib/stubs -L /home/jiongming/.conda/envs/forward/lib
+-----------
+Sanity check compiler command line: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -D_FILE_OFFSET_BITS=64 -o sanity_check_for_cpp.exe sanity_check_for_cpp.cpp -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jiongming/.conda/envs/forward/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jiongming/.conda/envs/forward/include -D_FILE_OFFSET_BITS=64 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib -L/home/jiongming/.conda/envs/forward/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Sanity check built target output for build machine cpp compiler
+ -- Running test binary command:  '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_cpp.exe'
+-----------
+Sanity check: `'/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/sanity_check_for_cpp.exe'` -> 0
+ -- stdout:
+ 
+ -- stderr:
+ 
+ -- returncode: 0
+C++ compiler for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: YES (/home/jiongming/.conda/envs/forward/bin/pkg-config) 0.29.2
+Determining dependency 'gmp' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion gmp` -> 0
+stdout:
+6.3.0
+-----------
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --static --cflags gmp` -> 0
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG_ALLOW_SYSTEM_LIBS]: 1
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --static --libs gmp` -> 0
+stdout:
+-L/home/jiongming/FORWORD_build/deps/gmp-install/lib -lgmp
+-----------
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --static --libs gmp` -> 0
+stdout:
+-L/home/jiongming/FORWORD_build/deps/gmp-install/lib -lgmp
+-----------
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpfxt5ua1i
+Code:
+
+        #include<stddef.h>
+        #include<stdio.h>
+        int main(void) {
+            printf("%ld\n", (long)(sizeof(void *)));
+            return 0;
+        }
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -L/home/jiongming/.conda/envs/forward/lib '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpfxt5ua1i/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpfxt5ua1i/output.exe' -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib` -> 0
+Program stdout:
+
+8
+
+Program stderr:
+
+
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpbjv58u32
+Code:
+
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpbjv58u32/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpbjv58u32/output.obj' -c -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive --print-search-dirs` -> 0
+stdout:
+install: /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/
+programs: =/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/
+libraries: =/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib/:/home/jiongming/.conda/envs/forward/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/:/home/jiongming/.conda/envs/forward/lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+-----------
+Run-time dependency gmp found: YES 6.3.0
+Running compile:
+Working directory:  /tmp/tmp3fs482r_
+Code:
+int i = static_cast<int>(0);
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ /tmp/tmp3fs482r_/testfile.cpp -o /tmp/tmp3fs482r_/output.obj -D_FILE_OFFSET_BITS=64 -c -std=c++17` -> 0
+Compiler accepts -std=c++17: YES
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpn9o2yzbj
+Code:
+
+        #ifdef __has_include
+         #if !__has_include("cadical.hpp")
+          #error "Header 'cadical.hpp' could not be found"
+         #endif
+        #else
+         #include <cadical.hpp>
+        #endif
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpn9o2yzbj/testfile.cpp' -E -P -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -P -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++17` -> 1
+stderr:
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpn9o2yzbj/testfile.cpp:4:12: error: #error "Header 'cadical.hpp' could not be found"
+    4 |           #error "Header 'cadical.hpp' could not be found"
+      |            ^~~~~
+-----------
+Has header "cadical.hpp" : NO 
+Determining dependency 'cadical' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion cadical` -> 1
+stderr:
+Package cadical was not found in the pkg-config search path.
+Perhaps you should add the directory containing `cadical.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'cadical' found
+-----------
+CMake binary for host machine is not cached
+CMake binary missing from cross or native file, or env var undefined.
+Trying a default CMake fallback at cmake
+Found CMake: /home/jiongming/.conda/envs/forward/bin/cmake (3.31.8)
+Extracting basic cmake information
+CMake Toolchain: Calling CMake once to generate the compiler state
+Calling CMake (['/home/jiongming/.conda/envs/forward/bin/cmake']) in /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__ with:
+  - "--trace-expand"
+  - "--trace-format=json-v1"
+  - "--no-warn-unused-cli"
+  - "--trace-redirect=cmake_trace.txt"
+  - "-G"
+  - "Ninja"
+  - "-DCMAKE_TOOLCHAIN_FILE=/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__/CMakeMesonTempToolchainFile.cmake"
+  - "."
+  - "-DCMAKE_PREFIX_PATH=/home/jiongming/.conda/envs/forward;/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr"
+CMake trace warning: add_executable() non imported executables are not supported
+CMake TRACE: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__/CMakeFiles/CMakeScratch/TryCompile-AkGFIC/CMakeLists.txt:22 add_executable(['cmTC_c7b67'])
+CMake trace warning: target_link_libraries() TARGET cmTC_c7b67 not found
+CMake TRACE: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__/CMakeFiles/CMakeScratch/TryCompile-AkGFIC/CMakeLists.txt:28 target_link_libraries(['cmTC_c7b67', ''])
+CMake trace warning: add_executable() non imported executables are not supported
+CMake TRACE: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__/CMakeFiles/CMakeScratch/TryCompile-kgQ4tp/CMakeLists.txt:22 add_executable(['cmTC_cbff6'])
+CMake trace warning: target_link_libraries() TARGET cmTC_cbff6 not found
+CMake TRACE: /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/__CMake_compiler_info__/CMakeFiles/CMakeScratch/TryCompile-kgQ4tp/CMakeLists.txt:28 target_link_libraries(['cmTC_cbff6', ''])
+Try CMake generator: auto
+Calling CMake (['/home/jiongming/.conda/envs/forward/bin/cmake']) in /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/cmake_cadical with:
+  - "--trace-expand"
+  - "--trace-format=json-v1"
+  - "--no-warn-unused-cli"
+  - "--trace-redirect=cmake_trace.txt"
+  - "-DCMAKE_TOOLCHAIN_FILE=/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/cmake_cadical/CMakeMesonToolchainFile.cmake"
+  - "."
+  - "-DCMAKE_PREFIX_PATH=/home/jiongming/.conda/envs/forward;/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr"
+  -- Module search paths:    ['/', '/home/jiongming/.conda/envs/forward', '/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr', '/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr', '/opt', '/usr', '/usr/local']
+  -- CMake root:             /home/jiongming/.conda/envs/forward/share/cmake-3.31
+  -- CMake architectures:    ['i386-linux-gnu', 'x86_64-linux-gnu']
+  -- CMake lib search paths: ['lib', 'lib32', 'lib64', 'libx32', 'share', '', 'lib/i386-linux-gnu', 'lib/x86_64-linux-gnu']
+Preliminary CMake check failed. Aborting.
+Run-time dependency cadical found: NO  (tried pkg-config and cmake)
+Looking for a fallback subproject for the dependency cadical
+Downloading cadical source from https://github.com/arminbiere/cadical/archive/rel-2.1.2.tar.gz
+
+Executing subproject cadical 
+
+Project name: cadical
+Project version: 1.7.4
+C++ compiler for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+C++ compiler for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+Configuring build.hpp using configuration
+Running compile:
+Working directory:  /tmp/tmpjvi_jonr
+Code:
+int i = static_cast<int>(0);
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ /tmp/tmpjvi_jonr/testfile.cpp -o /tmp/tmpjvi_jonr/output.obj -D_FILE_OFFSET_BITS=64 -c -std=c++11` -> 0
+Compiler accepts -std=c++11: YES
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp74as_suk
+Code:
+#include <cstdio>
+#include <limits.h>
+
+        #if defined __stub_getc_unlocked || defined __stub___getc_unlocked
+        fail fail fail this function is not going to work
+        #endif
+        
+int main(void) {
+            void *a = (void*) &getc_unlocked;
+            long long b = (long long) a;
+            return (int) b;
+        }
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -L/home/jiongming/.conda/envs/forward/lib '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp74as_suk/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp74as_suk/output.exe' -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++11 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib` -> 0
+Checking for function "getc_unlocked" : YES 
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpty9q24fl
+Code:
+#include <fcntl.h>
+#include <limits.h>
+
+        #if defined __stub_closefrom || defined __stub___closefrom
+        fail fail fail this function is not going to work
+        #endif
+        
+int main(void) {
+            void *a = (void*) &closefrom;
+            long long b = (long long) a;
+            return (int) b;
+        }
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -L/home/jiongming/.conda/envs/forward/lib '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpty9q24fl/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpty9q24fl/output.exe' -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++11 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib` -> 1
+stderr:
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpty9q24fl/testfile.cpp: In function 'int main()':
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpty9q24fl/testfile.cpp:9:32: error: 'closefrom' was not declared in this scope
+    9 |             void *a = (void*) &closefrom;
+      |                                ^~~~~~~~~
+-----------
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpc8l2zkgi
+Code:
+#include <fcntl.h>
+        int main(void) {
+
+        /* With some toolchains (MSYS2/mingw for example) the compiler
+         * provides various builtins which are not really implemented and
+         * fall back to the stdlib where they aren't provided and fail at
+         * build/link time. In case the user provides a header, including
+         * the header didn't lead to the function being defined, and the
+         * function we are checking isn't a builtin itself we assume the
+         * builtin is not functional and we just error out. */
+        #if !0 && !defined(closefrom) && !0
+            #error "No definition for __builtin_closefrom found in the prefix"
+        #endif
+
+        #ifdef __has_builtin
+            #if !__has_builtin(__builtin_closefrom)
+                #error "__builtin_closefrom not found"
+            #endif
+        #elif ! defined(closefrom)
+            __builtin_closefrom;
+        #endif
+        return 0;
+        }
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -L/home/jiongming/.conda/envs/forward/lib '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpc8l2zkgi/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpc8l2zkgi/output.exe' -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++11 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib` -> 1
+stderr:
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpc8l2zkgi/testfile.cpp:12:14: error: #error "No definition for __builtin_closefrom found in the prefix"
+   12 |             #error "No definition for __builtin_closefrom found in the prefix"
+      |              ^~~~~
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmpc8l2zkgi/testfile.cpp:17:18: error: #error "__builtin_closefrom not found"
+   17 |                 #error "__builtin_closefrom not found"
+      |                  ^~~~~
+-----------
+Checking for function "closefrom" : NO 
+Build targets in project: 1
+Subproject cadical finished.
+
+Dependency cadical for host machine from subproject subprojects/cadical-rel-2.1.2 found: YES 1.7.4
+Determining dependency 'cryptominisat5' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion cryptominisat5` -> 1
+stderr:
+Package cryptominisat5 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `cryptominisat5.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'cryptominisat5' found
+-----------
+CMake binary for host machine is cached.
+Preliminary CMake check failed. Aborting.
+Run-time dependency cryptominisat5 found: NO  (tried pkg-config and cmake)
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp6sqdvj92
+Code:
+
+        #ifdef __has_include
+         #if !__has_include("kissat.h")
+          #error "Header 'kissat.h' could not be found"
+         #endif
+        #else
+         #include <kissat.h>
+        #endif
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp6sqdvj92/testfile.cpp' -E -P -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -P -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++17` -> 1
+stderr:
+/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp6sqdvj92/testfile.cpp:4:12: error: #error "Header 'kissat.h' could not be found"
+    4 |           #error "Header 'kissat.h' could not be found"
+      |            ^~~~~
+-----------
+Has header "kissat.h" : NO 
+Determining dependency 'kissat' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion kissat` -> 1
+stderr:
+Package kissat was not found in the pkg-config search path.
+Perhaps you should add the directory containing `kissat.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'kissat' found
+-----------
+CMake binary for host machine is cached.
+Preliminary CMake check failed. Aborting.
+Run-time dependency kissat found: NO  (tried pkg-config and cmake)
+Determining dependency 'symfpu' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion symfpu` -> 1
+stderr:
+Package symfpu was not found in the pkg-config search path.
+Perhaps you should add the directory containing `symfpu.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'symfpu' found
+-----------
+CMake binary for host machine is cached.
+Preliminary CMake check failed. Aborting.
+Run-time dependency symfpu found: NO  (tried pkg-config and cmake)
+Looking for a fallback subproject for the dependency symfpu
+
+Executing subproject symfpu 
+
+Project name: symfpu
+Project version: undefined
+C++ compiler for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the host machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+C++ compiler for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ (gcc 14.3.0 "x86_64-conda-linux-gnu-c++ (conda-forge gcc 14.3.0-7) 14.3.0")
+C++ linker for the build machine: /home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ ld.bfd 2.44
+Build targets in project: 19
+Subproject symfpu finished.
+
+Dependency symfpu for host machine from subproject subprojects/symfpu found: YES undefined
+Current include type of ['symfpu'] is preserve. Converting to requested system
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp9swjlgix
+Code:
+#include <sys/resource.h>
+#include <limits.h>
+
+        #if defined __stub_getrusage || defined __stub___getrusage
+        fail fail fail this function is not going to work
+        #endif
+        
+int main(void) {
+            void *a = (void*) &getrusage;
+            long long b = (long long) a;
+            return (int) b;
+        }
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-c++ -L/home/jiongming/.conda/envs/forward/lib '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp9swjlgix/testfile.cpp' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp9swjlgix/output.exe' -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -std=c++17 -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/jiongming/.conda/envs/forward/lib -Wl,-rpath-link,/home/jiongming/.conda/envs/forward/lib` -> 0
+Checking for function "getrusage" : YES 
+Running command: /home/jiongming/.conda/envs/forward/bin/git rev-parse --is-inside-work-tree
+--- stdout ---
+true
+
+--- stderr ---
+
+
+Configuring config.h.in using configuration
+Program python3 found: YES (/home/jiongming/.conda/envs/forward/bin/python3)
+Determining dependency 'aiger' with pkg-config executable '/home/jiongming/.conda/envs/forward/bin/pkg-config'
+env[PKG_CONFIG_PATH]: 
+env[PKG_CONFIG_LIBDIR]: /home/jiongming/FORWORD_build/deps/gmp-install/lib/pkgconfig
+env[PKG_CONFIG]: /home/jiongming/.conda/envs/forward/bin/pkg-config
+-----------
+Called: `/home/jiongming/.conda/envs/forward/bin/pkg-config --modversion aiger` -> 1
+stderr:
+Package aiger was not found in the pkg-config search path.
+Perhaps you should add the directory containing `aiger.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'aiger' found
+-----------
+CMake binary for host machine is cached.
+Preliminary CMake check failed. Aborting.
+Run-time dependency aiger found: NO  (tried pkg-config and cmake)
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: YES (/home/jiongming/.conda/envs/forward/bin/pkg-config) 0.29.2
+Run-time dependency threads found: YES
+Build targets in project: 27
+
+bitwuzla 0.7.0-dev
+
+  Subprojects
+    cadical: YES
+    symfpu : YES
+
+  User defined options
+    fpexp  : false
+    prefix : /home/jiongming/FORWORD_build/deps/smt-switch/deps/install
+
+Found ninja-1.13.2 at /home/jiongming/.conda/envs/forward/bin/ninja
+Running compile:
+Working directory:  /home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp0on68bnm
+Code:
+
+-----------
+Command line: `/home/jiongming/.conda/envs/forward/bin/x86_64-conda-linux-gnu-cc '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp0on68bnm/testfile.c' -o '/home/jiongming/桌面/FORWORD/deps/smt-switch/deps/bitwuzla/build/meson-private/tmp0on68bnm/output.obj' -c -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE --print-search-dirs` -> 0
+stdout:
+install: /home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/
+programs: =/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../libexec/gcc/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/bin/
+libraries: =/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/../lib/:/home/jiongming/.conda/envs/forward/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/x86_64-conda-linux-gnu/14.3.0/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/jiongming/FORWORD_build/deps/gmp-install/lib/:/home/jiongming/.conda/envs/forward/lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../../x86_64-conda-linux-gnu/lib/:/home/jiongming/.conda/envs/forward/bin/../lib/gcc/x86_64-conda-linux-gnu/14.3.0/../../../:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/jiongming/.conda/envs/forward/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+-----------

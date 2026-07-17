@@ -1,0 +1,10 @@
+lib/libbison_a-gl_oset.o: lib/gl_oset.c \
+ /home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ lib/config.h lib/gl_oset.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h \
+ /home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h
+/home/jiongming/.conda/envs/forward/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h:
+lib/config.h:
+lib/gl_oset.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h:
+/home/jiongming/.conda/envs/forward/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h:

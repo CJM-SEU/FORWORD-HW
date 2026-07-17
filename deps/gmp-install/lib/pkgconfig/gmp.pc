@@ -1,0 +1,10 @@
+prefix=/home/jiongming/FORWORD_build/deps/gmp-install
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: GMP
+Description: GNU Multiple Precision Arithmetic Library
+Version: 6.3.0
+Libs: -L${libdir} -lgmp
+Cflags: -I${includedir}

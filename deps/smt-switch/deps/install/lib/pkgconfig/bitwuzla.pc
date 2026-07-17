@@ -1,0 +1,10 @@
+prefix=/home/jiongming/FORWORD_build/deps/smt-switch/deps/install
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${prefix}/lib/x86_64-linux-gnu
+
+Name: bitwuzla
+Description: Bitwuzla SMT solver
+Version: 0.7.0-dev
+Cflags: -I${includedir}
+Libs: -L${libdir} -lbitwuzla -lbitwuzlals -lbitwuzlabv -lbitwuzlabb -lcadical -L/home/jiongming/FORWORD_build/deps/gmp-install/lib -lgmp
