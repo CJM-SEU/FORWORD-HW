@@ -44,3 +44,4 @@ output/
 .bsp/
 .scala-build/
 design/
+benchmark/
